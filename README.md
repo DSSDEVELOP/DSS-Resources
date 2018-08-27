@@ -1,2 +1,2 @@
-# DSS-Resources
-DSS File and Image Resources
+# RED Medis Resources
+RED Medis Files and Image Resources
